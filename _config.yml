@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Jake Bartolone
-tagline:             A Temporarily Okay Data Science Blog
+tagline:             Data Science vs Conjuration
 url:                 http://bartolone.github.io
 paginate:            2
 baseurl:             ""
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Jake Bartolone
-  url:
+  url:               https://www.linkedin.com/in/jake-bartolone-9610ba4
   email:             jakebartolone@gmail.com
 
 # Custom vars
