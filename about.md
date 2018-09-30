@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Why Data Science vs. Conjuration?
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+So far, in my data science journey, I seem to have two main types of experiences. Either my careful preparation and thoughtful programming leads to some very tidy and interpretable results, or I try a bunch of stuff until suddenly something works and I'm not sure exactly why, but it's clearly right.
 
-There are currently two themes built on Poole:
+I've always thought of programming as being like consulting a summoned trickster spirit that will answer any question you have -- but only if you ask it in the right way. It's not going to do you any favors and intuit what you want, and if it can find a twisted interpretation of your question in order to give you an incorrect answer, it will. There's a joy in finally finding the perfect phrasing that obtains your answer, but sometimes it feels like you accidentally stumbled on the right combination of mystical hand gestures, secret words, and burnt offerings.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Maybe at some point my experiences will shift much more towards science than conjuration ... but I hope not. I'd rather work at the edge of my understanding and enjoy feeling like I've unearthed some arcane revelation rather than a predetermined end.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If that sounds like your kind of journey, then grab your pack and a ten-foot pole and come along.
