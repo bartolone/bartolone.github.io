@@ -11,4 +11,4 @@ I've always thought of programming as being like consulting a summoned trickster
 
 Maybe at some point my experiences will shift much more towards science than conjuration ... but I hope not. I'd rather work at the edge of my understanding and enjoy feeling like I've unearthed some arcane revelation rather than a predetermined end.
 
-If that sounds like your kind of journey, then grab your pack and a ten-foot pole and come along.
+If that sounds like your kind of journey, then grab your pack and a ten foot pole and come along.
