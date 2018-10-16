@@ -25,6 +25,8 @@ No. Nuh-uh. Not even a little. (The "best" model using only metalness scores acc
 
 In other words, it doesn't seem to matter what you name your band, your album, or your songs, people are going to like your music (or not) based on less-obvious factors like, you know, if it's any good or not.
 
+![Heavy metal wizard](https://litreactor.com/sites/default/files/imagecache/header/images/column/headers/saruman-rocks.jpg)
+
 (I'd probably give a bonus point per wizard myself, but I seem to be in the minority.)
 
 Still, I learned a few things during my investigation into the album ratings on [metalstorm.net](metalstorm.net). For one, user ratings tended to be higher for albums released in earlier years:
